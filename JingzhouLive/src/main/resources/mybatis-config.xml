@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+    <!--别名设置-->
+    <typeAliases>
+        <!--<typeAlias type="cn.jingzhoulive.domain.User" alias="_User"/>-->
+    </typeAliases>
+    <!-- 引入映射文件 -->
+    <mappers>
+        <!--<mapper resource="UserMapper.xml"/>-->
+    </mappers>
+</configuration>
